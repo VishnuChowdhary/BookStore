@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class AccountsapiConfig(AppConfig):
+class PagesConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'accountsAPI'
+    name = 'pages'
